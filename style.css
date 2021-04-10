@@ -1,0 +1,32 @@
+.Title {
+    font-size: 56px;
+    text-align: center;
+    color: #5f9bce;
+    font-family: 'Abril Fatface',serif;
+    line-height: 1.2;
+    word-break: break-word;
+}
+.MainContainer {
+    max-width: 1080px;
+    padding-top: 64px;
+    margin: auto;
+    margin-bottom: 128px;
+    align-items: center;
+    text-align: center;
+    text-size-adjust: 100%;
+}
+.quotebutton {
+    top: 20;
+    bottom: 20;
+}
+.padder {
+    margin-bottom: 24px ;
+}
+.cardContainer {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.card {
+    width: 32%;
+}
