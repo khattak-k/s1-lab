@@ -29,4 +29,15 @@
 }
 .card {
     width: 32%;
+    text-align: left;
+}
+.cardbody {
+    text-align: left;
+}
+.OrderLink {
+    font-size: large;
+    font-weight: bolder;
+    color: #1967d2;
+    text-decoration: underline;
+    
 }
